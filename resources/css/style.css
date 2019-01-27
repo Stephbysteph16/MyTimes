@@ -15,9 +15,9 @@ nav {
   display: flex;
 }
 
-nav span {
+/* nav span {
   display: inline-block;
-}
+} */
 
 .logo {
   color: MediumAquamarine;
