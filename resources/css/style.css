@@ -12,12 +12,14 @@ header {
   background-color: white;
 
 }
-nav {
+/* nav {
   display: flex;
-}
+} */
 
 nav span {
   display: inline-block;
+  padding-right: 20px;
+  color: black;
 }
 
 .logo {
@@ -26,4 +28,10 @@ nav span {
   flex-grow: 1;
   align-items: center;
   padding-right: 30px;
+}
+
+.logo img{
+  width: 70px;
+  height: 60px;
+  margin-right: 12px;
 }
